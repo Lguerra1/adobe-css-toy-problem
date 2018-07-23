@@ -12,7 +12,7 @@ class App extends Component {
           backgroundColor: "grey"
         }}
       >
-        <div>Our Canvas</div>
+        Our Canvas
       </div>
     );
   }
